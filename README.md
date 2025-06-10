@@ -11,7 +11,6 @@
 <H4 align="left">I build predictive models that forecast the weather with uncanny accuracy. From real-time data pipelines to deep learning models that predict the next storm, I blend meteorology with machine learning. <br>
 <br>
 And yes, I can predict when you'll fall for me... just kidding! Or am I? 😏</H4>
-<br>
 
 ###
 
@@ -53,6 +52,9 @@ And yes, I can predict when you'll fall for me... just kidding! Or am I? 😏</H
   <img width="10" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="30" alt="opencv logo"  />
 </div>
+
+<br>
+
 
 ###
 
