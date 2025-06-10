@@ -8,13 +8,15 @@
 
 ###
 
-<H4 align="left">I build predictive models that forecast the weather with uncanny accuracy. From real-time data pipelines to deep learning models that predict the next storm, I blend meteorology with machine learning. And yes, I can predict when you'll fall for me... just kidding! Or am I? 😏</H4>
-
+<H4 align="left">I build predictive models that forecast the weather with uncanny accuracy. From real-time data pipelines to deep learning models that predict the next storm, I blend meteorology with machine learning. <br>
+And yes, I can predict when you'll fall for me... just kidding! Or am I? 😏</H4>
+<br>
 ###
 
 <h2 align="center">My Forecasting Toolkit</h2>
 
 ###
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
