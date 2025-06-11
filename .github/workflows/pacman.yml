@@ -14,24 +14,22 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
+    permissions:
+      contents: write
 
     steps:
-      # Step 1: Checkout the repository
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      # Step 2: Generate Pac-Man Contribution Graph
+      # Step 1: Generate the Pac-Man Contribution Graph
       - name: Generate GitHub Contributions Pac-Man Animation
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      # Step 3: Deploy the generated files to the 'output' branch
+      # Step 2: Deploy the generated SVG to the 'output' branch
       - name: Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@v3
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: output
-          commit_message: "Update Pac-Man animation [skip ci]"
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
