@@ -61,8 +61,8 @@ And yes, I can predict when you'll fall for me... just kidding! Or am I? 😏</H
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AEX-WEX/AEX-WEX/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AEX-WEX/AEX-WEX/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AKC0101/AKC0101/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AKC0101/AKC0101/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AKC0101/AKC0101/output/pacman-contribution-graph.svg">
 </picture>
 
