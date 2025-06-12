@@ -14,9 +14,6 @@ And yes, I can predict when you'll fall for me... just kidding! Or am I? 😏</H
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AEX-WEX/count.svg?"  />
-</div>
 
 ###
 
