@@ -6,18 +6,43 @@ I design **end-to-end ML platforms** covering data ingestion, feature engineerin
 
 ---
 
+## Focus Areas
+- AI meteorology & solar forecasting
+- Neural operators and temporal transformers
+- Generative time-series modeling
+- RAG & chatbot systems
+- ML system design and MLOps orchestration
+
+---
+
+## Key Work
+**Forecasting Systems**
+- Real-time pipelines integrating AWS weather stations and GFS forecasts  
+- Transformer and stacking architectures for high-volatility prediction
+
+**Neural Operator Research**
+- AFNO implementation for spatiotemporal atmospheric modeling
+
+**RAG Extraction System**
+- Retrieval pipelines for structured knowledge extraction from technical manuals
+
+
 ###
+## Systems & MLOps
+- Scalable data pipelines and experiment reproducibility
+- Containerized ML workflows (Docker)
+- Orchestration and CI/CD for model deployment
+- API design for AI services and chatbot backends
 
-<h3 align="left">🌦️ Real-time Weather Forecasting | ⚡ ML Prediction Systems | 🧠 AI Meteorology</h3>
+---
 
-###
+## Current Exploration
+- Physics-informed forecasting models  
+- Multimodal weather fusion (radar + NWP)  
+- Generative models for scenario simulation  
+- Agentic RAG architectures
 
-<H4 align="left">I build predictive models that forecast the weather with uncanny accuracy. From real-time data pipelines to deep learning models that predict the next storm, I blend meteorology with machine learning. <br>
-<br>
-And yes, I can predict when you'll fall for me... just kidding! Or am I? 😏</H4>
-
-###
-
+---
 
 ###
 
