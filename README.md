@@ -1,6 +1,7 @@
 <img src="banner2_github.png" alt="Weather Forecasting Expert" width="100%" />
 
-<h1 align="center">Hello there! Want to know if it's going to rain?  😉</h1>
+<h1 align="center">AI Research Engineer building spatiotemporal intelligence systems
+for weather, energy forecasting, and multimodal reasoning.</h1>
 
 ###
 
