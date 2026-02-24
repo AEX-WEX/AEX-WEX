@@ -1,7 +1,14 @@
 <img src="banner2_github.png" alt="Weather Forecasting Expert" width="100%" />
 
-<h3>AI Research Engineer<h3/> **building spatiotemporal ML systems for weather, energy forecasting, and industrial AI.**
-I design **end-to-end ML platforms** covering data ingestion, feature engineering, deep learning models, and production deployment.
+<h2>AI Research Engineer</h2>
+
+<p>
+  <small>
+    <strong>Building spatiotemporal ML systems for weather, energy forecasting, and industrial AI.</strong><br/>
+    I design <strong>end-to-end ML platforms</strong> covering data ingestion, feature engineering,
+    deep learning models, and production deployment.
+  </small>
+</p>
 
 ## Focus Areas & Systems
 
