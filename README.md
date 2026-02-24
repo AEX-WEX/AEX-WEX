@@ -15,16 +15,6 @@ I design **end-to-end ML platforms** covering data ingestion, feature engineerin
 
 ---
 
-## Key Work
-**Forecasting Systems**
-- Real-time pipelines integrating AWS weather stations and GFS forecasts  
-- Transformer and stacking architectures for high-volatility prediction
-
-**Neural Operator Research**
-- AFNO implementation for spatiotemporal atmospheric modeling
-
-**RAG Extraction System**
-- Retrieval pipelines for structured knowledge extraction from technical manuals
 
 
 ###
@@ -33,14 +23,6 @@ I design **end-to-end ML platforms** covering data ingestion, feature engineerin
 - Containerized ML workflows (Docker)
 - Orchestration and CI/CD for model deployment
 - API design for AI services and chatbot backends
-
----
-
-## Current Exploration
-- Physics-informed forecasting models  
-- Multimodal weather fusion (radar + NWP)  
-- Generative models for scenario simulation  
-- Agentic RAG architectures
 
 ---
 
