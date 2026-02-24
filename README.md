@@ -71,7 +71,7 @@
 ###
 
 <h3 align="center">
-  My models achieve high accuracy in weather prediction — and I enjoy building systems people actually trust.
+  My models achieve high accuracy in weather prediction and I enjoy building systems people actually trust.
 </h3>
 
 <h4 align="center">
@@ -79,5 +79,5 @@
 </h4>
 
 <h4 align="center">
-  <a href="https://github.com/AKC0101">Explore my Secondary GitHub profile</a>
+  <a href="https://github.com/AKC0101">Explore my secondary GitHub profile</a>
 </h4>
