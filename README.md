@@ -1,26 +1,22 @@
 <img src="banner2_github.png" alt="Weather Forecasting Expert" width="100%" />
 
 **AI Research Engineer building spatiotemporal ML systems for weather, energy forecasting, and industrial AI.**
-
 I design **end-to-end ML platforms** covering data ingestion, feature engineering, deep learning models, and production deployment.
+## Focus Areas & Systems
 
-## Expertise
-
-| Focus Areas | Systems & MLOps |
-|------------|----------------|
-| AI meteorology & solar forecasting | Scalable data pipelines and experiment reproducibility |
-| Neural operators and temporal transformers | Containerized ML workflows (Docker) |
-| Generative time-series modeling | Orchestration and CI/CD for model deployment |
-| RAG & chatbot systems | API design for AI services and chatbot backends |
-| ML system design and MLOps orchestration |  |
----
+| **Focus Areas** | **Systems & MLOps** |
+|-----------------|---------------------|
+| AI meteorology & solar forecasting | Scalable data ingestion pipelines and experiment reproducibility |
+| Neural operators and temporal transformers | Containerized ML workflows and environment isolation (Docker) |
+| Generative time-series modeling | Workflow orchestration and CI/CD for model deployment |
+| RAG, chatbot, and agentic AI systems | API design and microservices for AI inference backends |
+| ML system design and MLOps orchestration | Monitoring, evaluation pipelines, and model lifecycle management |
+| Agentic AI and tool-augmented reasoning | Multi-agent coordination, memory design, and planning architectures |
+| MCP-based LLM integration | Model Context Protocol for tool interoperability and context routing |
+| LLM application architecture | Retrieval pipelines, vector databases, and prompt orchestration |
 
 ###
-
-###
-
-<h2 align="center">My Forecasting Toolkit</h2>
-
+<h2 align="center">My Toolkits</h2>
 ###
 
 <br>
