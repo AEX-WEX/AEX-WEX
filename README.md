@@ -4,26 +4,15 @@
 
 I design **end-to-end ML platforms** covering data ingestion, feature engineering, deep learning models, and production deployment.
 
----
+## Expertise
 
-## Focus Areas
-- AI meteorology & solar forecasting
-- Neural operators and temporal transformers
-- Generative time-series modeling
-- RAG & chatbot systems
-- ML system design and MLOps orchestration
-
----
-
-
-
-###
-## Systems & MLOps
-- Scalable data pipelines and experiment reproducibility
-- Containerized ML workflows (Docker)
-- Orchestration and CI/CD for model deployment
-- API design for AI services and chatbot backends
-
+| Focus Areas | Systems & MLOps |
+|------------|----------------|
+| AI meteorology & solar forecasting | Scalable data pipelines and experiment reproducibility |
+| Neural operators and temporal transformers | Containerized ML workflows (Docker) |
+| Generative time-series modeling | Orchestration and CI/CD for model deployment |
+| RAG & chatbot systems | API design for AI services and chatbot backends |
+| ML system design and MLOps orchestration |  |
 ---
 
 ###
