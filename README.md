@@ -25,7 +25,6 @@
 
 ###
 <h2 align="center">My Toolkits</h2>
-###
 
 <br>
 
@@ -71,10 +70,14 @@
 
 ###
 
-<h3 align="center">My code has 90+ % accuracy in weather prediction... and 99% chance of making you smile</h3>
+<h3 align="center">
+  My models achieve high accuracy in weather prediction — and I enjoy building systems people actually trust.
+</h3>
 
+<h4 align="center">
+  I work across multiple research and engineering environments.
+</h4>
 
-
-<h4 align="center">I experience Mutiple Weather (mood :) ... means multiple github accounts , check that also !!</h4>
-
-<h4 align='center'><a href="https://github.com/AKC0101">Wait That's too close </a><h4/>
+<h4 align="center">
+  <a href="https://github.com/AKC0101">Explore my Secondary GitHub profile</a>
+</h4>
