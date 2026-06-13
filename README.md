@@ -1,4 +1,4 @@
-<img src="banner2_github.png" alt="Roshan Ramchandra Dhekale" width="100%" />
+<!-- <img src="banner2_github.png" alt="Roshan Ramchandra Dhekale" width="100%" /> -->
 
 <h2>Associate Product Engineer</h2>
 
