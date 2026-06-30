@@ -1,25 +1,27 @@
-<!-- <img src="banner2_github.png" alt="Roshan Ramchandra Dhekale" width="100%" /> -->
-<img src="banner2_github.png" alt="Roshan Ramchandra Dhekale" width="100%" />
-<h2>Associate Product Engineer</h2>
+<img src="banner2_github.png" alt="Weather Forecasting Expert" width="100%" />
+
+<h2>AI Research Engineer</h2>
 
 <p>
   <small>
-    <strong>Building full-stack products at the intersection of frontend craft and AI-driven development.</strong><br/>
-    I design <strong>end-to-end web and mobile applications</strong> covering UI architecture, REST API integration,
-    agile delivery, and real-world client communication.
+    <strong>Building spatiotemporal ML systems for weather, energy forecasting, and industrial AI.</strong><br/>
+    I design <strong>end-to-end ML platforms</strong> covering data ingestion, feature engineering,
+    deep learning models, and production deployment.
   </small>
 </p>
 
-## Engineering Focus & Interests
+## Research Focus & ML Systems
 
-| **Product & Frontend** | **Backend & DevOps** |
-|------------------------|----------------------|
-| React.js & React Native mobile UI | Django REST Framework & FastAPI backends |
-| Component design & API integration | Docker containerization & environment setup |
-| Responsive, intuitive UX across devices | Git, GitLab, Bitbucket version control |
-| TypeScript & JavaScript application architecture | SQL databases & data modeling |
-| Angular & Bootstrap frameworks | Agile sprint coordination & on-time delivery |
-| AI-augmented product development | Client communication & requirement gathering |
+| **Research Focus** | **Systems & MLOps** |
+|-------------------|--------------------|
+| AI meteorology & solar forecasting | Scalable data ingestion and experiment reproducibility |
+| Neural operators & temporal transformers | Containerized ML workflows and environment isolation (Docker) |
+| Generative time-series modeling | Workflow orchestration and CI/CD for model deployment |
+| RAG, chatbot, and agentic AI systems | API design and microservices for inference backends |
+| Agentic AI & tool-augmented reasoning | Multi-agent coordination, memory, and planning |
+| MCP-based LLM integration | Model Context Protocol for tool interoperability |
+| LLM application architecture | Retrieval pipelines, vector stores, and prompt orchestration |
+| ML system design | Monitoring, evaluation pipelines, and model lifecycle management |
 
 ###
 <h2 align="center">My Toolkits</h2>
@@ -27,32 +29,33 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="30" alt="tensorflow logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="30" alt="pytorch logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react native logo" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="30" alt="aws logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="30" alt="angular logo" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="30" alt="kubernetes logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django logo" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="30" alt="fastapi logo" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo" />
+  <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="30" alt="threejs logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="30" alt="opencv logo"  />
 </div>
 
 <br>
+
 
 <picture align='center'>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AEX-WEX/AEX-WEX/output/github-snake-dark.svg" />
@@ -60,15 +63,17 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/AEX-WEX/AEX-WEX/output/github-snake.svg" />
 </picture>
 
+
 ###
 
 <h3 align="center">
-  I build products people actually use — fast, reliable, and crafted with care from first commit to final delivery.
+  My models achieve high accuracy in weather prediction and I enjoy building systems people actually trust.
 </h3>
 
 <h4 align="center">
-  Currently shipping at <strong>Jatayu Healthcare Technologies, IIT Bombay</strong>.
+  I work across multiple research and engineering environments.
 </h4>
 
 <h4 align="center">
-  <a href="https://www.linkedin.com/in/roshan-dhekale-266133222">Connect with me on LinkedIn</a>
+  <a href="https://github.com/AKC0101">Explore my secondary GitHub profile</a>
+</h4>
