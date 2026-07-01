@@ -1,27 +1,27 @@
 <img src="banner2_github.png" alt="Weather Forecasting Expert" width="100%" />
 
-<h2>AI Research Engineer</h2>
+<h2>AI Engineer | Software Engineer | Data Scientist</h2>
 
 <p>
   <small>
-    <strong>Building spatiotemporal ML systems for weather, energy forecasting, and industrial AI.</strong><br/>
-    I design <strong>end-to-end ML platforms</strong> covering data ingestion, feature engineering,
-    deep learning models, and production deployment.
+    <strong>Building AI-powered healthcare products, meeting intelligence systems, and ML-driven applications.</strong><br/>
+    I specialize in <strong>end-to-end AI/ML systems</strong> covering speech processing, LLM integration, 
+    RAG architectures, data engineering, backend services, and production deployment at scale.
   </small>
 </p>
 
-## Research Focus & ML Systems
+## Core Expertise & Technical Focus
 
-| **Research Focus** | **Systems & MLOps** |
+| **AI/ML & GenAI** | **Systems & Engineering** |
 |-------------------|--------------------|
-| AI meteorology & solar forecasting | Scalable data ingestion and experiment reproducibility |
-| Neural operators & temporal transformers | Containerized ML workflows and environment isolation (Docker) |
-| Generative time-series modeling | Workflow orchestration and CI/CD for model deployment |
-| RAG, chatbot, and agentic AI systems | API design and microservices for inference backends |
-| Agentic AI & tool-augmented reasoning | Multi-agent coordination, memory, and planning |
-| MCP-based LLM integration | Model Context Protocol for tool interoperability |
-| LLM application architecture | Retrieval pipelines, vector stores, and prompt orchestration |
-| ML system design | Monitoring, evaluation pipelines, and model lifecycle management |
+| LLMs, Prompt Engineering, Fine-Tuning | System Design, HLD (High-Level Design), LLD (Low-Level Design) |
+| RAG, LangChain, LangGraph, LangSmith | Scalable backend services and REST APIs (FastAPI) |
+| Agentic AI & Multi-Agent Systems | Production ML pipelines and inference optimization |
+| Speech Processing (Whisper ASR, Speaker Diarization) | Containerized workflows and CI/CD (Docker, GCP Cloud Run) |
+| Claude, MCP (Model Context Protocol) | Edge AI architectures and inference efficiency |
+| Vector Databases & Retrieval Pipelines | Data engineering (Pandas, NumPy, PySpark, Time-Series) |
+| Healthcare AI & Meeting Intelligence | API design, microservices, and real-time systems |
+| Generative AI & NLP applications | Firebase, PostgreSQL, and cloud infrastructure |
 
 ###
 <h2 align="center">My Toolkits</h2>
@@ -67,11 +67,11 @@
 ###
 
 <h3 align="center">
-  My models achieve high accuracy in weather prediction and I enjoy building systems people actually trust.
+  Currently building AI-powered healthcare products and meeting intelligence platforms at Jatayu Healthcare.
 </h3>
 
 <h4 align="center">
-  I work across multiple research and engineering environments.
+  Experienced in shipping production AI/ML systems, from healthcare to energy forecasting, with expertise in LLMs, Claude, MCP, and scalable backend architectures.
 </h4>
 
 <h4 align="center">
